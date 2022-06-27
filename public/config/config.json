@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9cb56946D37AEeF546EEa2110713b775c013Ab84",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x9cb56946d37aeef546eea2110713b775c013ab84#code",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "eth",
+    "ID": 4
+  },
+  "NFT_NAME": "MonsterZi",
+  "SYMBOL": "MZI",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.00,
+  "GAS_LIMIT": 28500000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/golam",
+  "SHOW_BACKGROUND": true
+}
